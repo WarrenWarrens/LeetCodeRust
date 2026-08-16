@@ -1,6 +1,5 @@
-pub mod arrays;
 pub mod strings;
-
+pub mod q1_to_100;
 pub fn add(left: u64, right: u64) -> u64 {
     left + right
 }
